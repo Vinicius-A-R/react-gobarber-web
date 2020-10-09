@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import logoImg from '../../assets/logo.svg';
 
@@ -33,13 +34,13 @@ const SignIn: React.FC = () => {
 
           <Button type="submit">ENTRAR</Button>
 
-          <a href="forgot">Esqueci minha senha</a>
+          <Link to="forgot">Esqueci minha senha</Link>
         </form>
 
-        <a href="create">
+        <Link to="signup">
           <FiLogIn />
-          Criar conta
-        </a>
+          CRIAR CONTA
+        </Link>
       </Content>
 
       <Background />
