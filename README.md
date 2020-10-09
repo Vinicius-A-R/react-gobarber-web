@@ -4,9 +4,10 @@
 
 React JS Web Application using React Hooks and TypeScript.
 
+- [ ] Finished
 - [ ] Responsive
-- [x] Sign In
-- [x] Sign up
+- [x] Sign In (just styled)
+- [x] Sign up (just styled)
 
 <!-- **Web site:**  -->
 
