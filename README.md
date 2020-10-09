@@ -12,11 +12,11 @@ React JS Web Application using React Hooks and TypeScript.
 
 ## Sign In
 
-![app gobarber](https://github.com/Vinicius-A-R/react-gobarber-web/blob/main/public/images/signin-gobarber.png?raw=true)
+![app gobarber](https://github.com/Vinicius-A-R/react-gobarber-web/blob/main/public/img/signin-gobarber.png?raw=true)
 
 ## Sign up
 
-![app gobarber](https://github.com/Vinicius-A-R/react-gobarber-web/blob/main/public/images/signup-gobarber.png?raw=true)
+![app gobarber](https://github.com/Vinicius-A-R/react-gobarber-web/blob/main/public/img/signup-gobarber.png?raw=true)
 
 
 ## How to start
